@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environments
+.env
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Training artifacts
+Training/
+*.zip
+*.pkl
+tensorboard_logs/
+logs/
+
+# Video recordings
+video/
+*.mp4
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
